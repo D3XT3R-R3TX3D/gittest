@@ -18,7 +18,7 @@ _Put an `x` in the boxes that apply_
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation Update (if none of the other choices apply)
 
-HEADER 2 - Checklist
+## Checklist
 
 _Put an `x` in the boxes that apply. You can also fill these out after creating the PR.
 
