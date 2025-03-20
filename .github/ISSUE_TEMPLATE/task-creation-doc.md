@@ -36,9 +36,9 @@ assignees: ''
 
 ## Dependencies:
 
-BOLD/ITALICS - Identify any dependencies on other tasks, team members, or external factors. Ensure that prerequisites are met before starting a task.
+***Identify any dependencies on other tasks, team members, or external factors. Ensure that prerequisites are met before starting a task.***
 
-HEADER 2 - Priority:
+## Priority:
 
 ***Assign a priority level to each task based on its importance and impact on the project. Prioritize tasks within the backlog or sprint.***
 
